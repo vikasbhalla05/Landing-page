@@ -3,3 +3,18 @@
     background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2012/04/10/2103/0e385520715a040a510a36f62f35b1bd-375.jpg);
     background-size: cover;
 }
+
+.section-heading{
+    font-weight: bold;
+    margin-bottom: 1rem;
+    margin-top: 4rem;
+}
+
+.section-subheading{
+    margin-bottom: 4rem;
+}
+
+i{
+    font-size: medium;
+}
+
